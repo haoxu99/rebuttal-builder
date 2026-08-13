@@ -1,0 +1,4 @@
+interface:
+  display_name: "RebuttalBuilder"
+  short_description: "Build auditable, evidence-grounded academic rebuttals"
+  default_prompt: "Use $rebuttal-builder to turn my reviewer files into a verbatim digest, prioritized concern map, and approximately 1000-word rebuttal."
